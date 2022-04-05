@@ -11,8 +11,8 @@ body
 
 #cabecera
 {
-    background: #37488b;
-    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    background: rgb(91, 125, 18);
+    box-shadow: 0px 2px 20px 0px rgba(55, 4, 23, 0.5);
     color: white;
     font-weight: bold;
     margin: 0;
@@ -37,7 +37,7 @@ body
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid rgb(109, 41, 41);
     margin: 0 auto;
 }
 
